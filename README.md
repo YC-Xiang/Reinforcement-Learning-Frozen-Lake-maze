@@ -1,6 +1,6 @@
 # Reinforcement-Learning-Frozen-Lake-maze
 Using First-visit Monte Carlo method, Q-learning, Sarsa algorithms to solve the Frozen Lake problem
-<img src="/Users/xiangyucheng/Desktop/截屏2020-10-16 下午2.40.02.png" alt="截屏2020-10-16 下午2.40.02" style="zoom:50%;" />
+
 ### Requirements: 
 
 numpy 1.18.5, pandas1.1.2, matplotlib3.3.2, tkinter
